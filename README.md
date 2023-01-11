@@ -22,16 +22,16 @@ Here are some ideas to get you started:
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
+          <a href="https://github.com/Andrieddu">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrieddu&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Andrea's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/jeffreyc86">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Andrieddu?cardType=github&theme=github" alt="Andrea's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=Andrieddu&show_icons=true&hide=stars&hide_border=true" alt="Andrea's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
