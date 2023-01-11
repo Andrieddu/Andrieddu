@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Andrea 🧑‍💻 </h1>
+
+<p align='center'>
+  I live in Milan, Italy and work at <b>DECATHLON</b> 
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Andrieddu.Andrieddu??style=for-the-badge&logo=appveyor"></a>
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/webdevalai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:laiandrea2@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
 
 <!--
 **Andrieddu/Andrieddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
