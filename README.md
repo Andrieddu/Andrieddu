@@ -31,6 +31,8 @@ src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&
 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
+
 <!--
 **Andrieddu/Andrieddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
