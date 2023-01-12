@@ -57,14 +57,14 @@ Here are some ideas to get you started:
         <div align="center" width="100%">
           <a href="https://github.com/Andrieddu">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Andrieddu?cardType=github&theme=github" alt="Andrea's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=Andrieddu&show_icons=true&hide=stars&hide_border=true" alt="Andrea's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andrieddu&show_icons=true&hide=stars&hide_border=true" alt="Andrea's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/Andrieddu">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrieddu&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Andrea's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andrieddu&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Andrea's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
